@@ -4,8 +4,8 @@ This app allows the user to search for a type of healthcare service or a specifi
 
 <table>
   <tr>
-    <td> <img src="https://github.com/AraavNayak/MobilityHub/assets/104335810/167c4320-c950-4927-81db-f77632bcd0f1"></td>
-    <td> <img src="https://github.com/AraavNayak/MobilityHub/assets/104335810/aab0064c-1ac7-4f39-b1e2-05e6739e0cb5"></td>
+    <td> <img src="https://github.com/AraavNayak/MobilityHub/assets/104335810/76ea9bdd-c4e9-44ac-bc75-8afc036e84ca"></td>
+    <td> <img src="https://github.com/AraavNayak/MobilityHub/assets/104335810/92a789c5-88e7-457a-9f9b-538357503ae8"></td>
   </tr>
 </table>
       
